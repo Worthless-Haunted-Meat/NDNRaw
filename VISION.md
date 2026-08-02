@@ -1,8 +1,8 @@
-# Vision — Beyond the First Meetup
+# Vision — if Genesis grows
 
-The README describes the seed: one weekly two-room gathering. This document
-captures where the idea points once it works — added 2026-08-01 after studying
-[nonPareil](https://npusa.org/) and sharpening the core thesis.
+Not a roadmap. Not instructions. A sketch of where the idea *could* go if
+the people in the rooms make it so. Added after studying
+[nonPareil](https://npusa.org/) and naming the paradox.
 
 ## The Central Paradox
 
@@ -27,9 +27,9 @@ simulate the conditions of working life in an environment built for the autistic
 brain. One of their students said it best: *"It's very tiring pretending to be
 normal all day and here I won't have to."*
 
-Our model differs in one key way: nonPareil is an institution. We are organic,
-parent-built, and free — but we can borrow their insight that the activities in
-the kids' room should increasingly *mimic real work*, not just fill time.
+Our difference: nonPareil is an institution. We are genesis — organic,
+parent-built, unguided. If work-shaped stuff shows up in the young adults'
+room, it shows up because *they* went there, not because we assigned it.
 
 ## The Scaling Model
 
