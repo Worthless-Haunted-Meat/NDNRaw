@@ -81,15 +81,15 @@ The pattern generalizes:
   the workforce a little more closely, and every completed gig makes the next
   one — including one outside the network — more attainable.
 
-## The Arc, Restated
+## One possible arc (not a syllabus)
 
-| Stage | What happens | What it produces |
-|-------|-------------|------------------|
-| 1. Cell | Weekly two-room meetups | Friendship, peer network, parent support |
-| 2. Catalog | Parents record strengths as they emerge | Visibility of talent across the network |
-| 3. Bind | Parents match complementary strengths across cells | Ensembles: bands, crews, studios |
-| 4. Seed | Parents pay for the first real gigs | Paid work experience, confidence, credentials |
-| 5. Launch | Ensembles take outside work | Livelihood — the network *is* their network |
+| If… | Then maybe… |
+|-----|-------------|
+| People meet in two rooms | Friendship, a peer network, parents who aren't alone |
+| Strengths get noticed | Visibility of talent across rooms / neighborhoods |
+| Talents gel | Ensembles: bands, crews, studios |
+| Parents pay for a first gig | Real work, confidence, something on a résumé |
+| The work goes outside | Livelihood — the network *is* their network |
 
 The endgame of the central paradox: these young adults end up with what
 networking was always supposed to provide — people who know what they can do
