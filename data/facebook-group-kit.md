@@ -1,73 +1,69 @@
-# NDNGenesis — Facebook bits (optional)
+# NDNGenesis — Facebook bits
 
-Only if you want paste text. Skip anything that feels like a brochure.
+Group link (share this):
+https://www.facebook.com/groups/4552109388354620
 
-Cover: **820 × 312** (Canva → “Facebook Group Cover”). Keep it simple.
+Only two paste fields matter right now: **About** + **one post**. Skip the rest.
 
 ---
 
-## Cover
+## About (Group settings → Description)
 
 ```
-NDNGenesis
-Two rooms. Parents + young adults. That's it.
+Parents + neurodivergent young adults.
+
+Networking runs the world. A lot of our kids freeze in the rooms where that
+usually happens — not lazy, different bandwidth. So the idea is simple: when
+we gather, young adults in one room, parents in the other. No program. No
+therapy. Organic.
+
+This group is the springboard. Come name this thing with us and figure out
+what happens next.
+
+Moms, dads, daughters, sons, grandparents — all welcome.
 ```
 
-Or shorter:
+---
+
+## First post (start the discussion — then pin it)
 
 ```
-NDNGenesis
+Alright — NDNGenesis is open.
+
+I started this because I have a young adult on the spectrum who can handle
+life fine until you put him in a social networking situation, and then he
+shuts down. Same story with friends of mine and their kids. The thing that
+makes you successful out there is a network — and that's often the exact
+thing that gets blocked.
+
+So here's the raw idea: gather. Them in one room (hang out, games, whatever
+they love). Us in the other. No curriculum. Not a school. Just people who
+get it. I'm doing this anyway.
+
+What I need from you:
+1. Join. Share this group with anyone who feels this.
+   https://www.facebook.com/groups/4552109388354620
+2. Drop a comment — parent or young adult, roughly where you are, and if
+   this hits.
+3. Help name it. Working label is NDNGenesis. I've been kicking around 24K
+   (like 24-karat — the pure stuff). Yes? Meh? Got something better?
+
+This is the start. You write the rest with me.
+
 Who's in?
 ```
 
 ---
 
-## About
+## Optional thin rules (or skip)
 
-```
-Parents and neurodivergent young adults.
-
-Usual networking rooms aren't built for how a lot of our kids run. So:
-young adults in one room, parents in the other. Organic. Not a program.
-Not therapy. Moms, dads, daughters, sons.
-
-If that hits — you're in the right place. Who's in?
-```
-
-Privacy: Private. Visible is fine until it isn't.
-
----
-
-## Rules (keep thin — or skip)
-
-1. All genders. Parents and young adults.
-2. Be decent. Don't shame ("lazy," etc.).
+1. Parents and young adults — all genders.
+2. Be decent. No "lazy / apathetic" talk.
 3. What's shared here stays here.
 
-That's enough. The room will teach the rest.
-
 ---
 
-## Pinned post (raw)
+## Don't overdo it
 
-```
-NDNGenesis.
-
-Networking makes careers. Crowds and bars shut a lot of our kids down —
-not lazy, different bandwidth. We can't fully speak their language. Other
-young adults their age can.
-
-Two rooms when we meet:
-- Them: hang out, do what they love, or nothing.
-- Us: talk.
-
-No curriculum. No guide. This is the start. The people in it write what
-happens next.
-
-Introduce yourself if you want. Say if you're local. We're doing this anyway.
-
-Who's in?
-```
-
-Naming ask and meetup pulse can wait until it feels right — or never. The
-group doesn't need a content calendar.
+You do not need a content calendar, a cover redesign, or five welcome posts.
+About + this one post + share the link is enough to springboard.
