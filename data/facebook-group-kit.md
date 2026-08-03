@@ -1,7 +1,7 @@
 # NDNGenesis — Facebook bits
 
 Group link (share this):
-https://www.facebook.com/groups/4552109388354620
+https://www.facebook.com/groups/ndngenesis/
 
 Only two paste fields matter right now: **About** + **one post**. Skip the rest.
 
@@ -42,7 +42,7 @@ get it. I'm doing this anyway.
 
 What I need from you:
 1. Join. Share this group with anyone who feels this.
-   https://www.facebook.com/groups/4552109388354620
+   https://www.facebook.com/groups/ndngenesis/
 2. Drop a comment — parent or young adult, roughly where you are, and if
    this hits.
 3. Help name it. Working label is NDNGenesis. I've been kicking around 24K
